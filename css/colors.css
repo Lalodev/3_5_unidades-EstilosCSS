@@ -63,7 +63,7 @@ Hue: (Circulo cromático)
 240° -> blue
 300° -> magenta
 
-Saturation: Intensidaddel color
+Saturation: Intensidad del color
 0% -> Escala de grises
 100% -> color puro
 
@@ -82,7 +82,7 @@ Lightness: Luminosidad del color -> tienda hacia blanco o negro
     background-color: hsla(30,100%,50%,0.75);
     color: hsl(0,0%,100%);
     color: hsl(0,0%,.0%);
-    border: thick solid hsl(210,75%,65%);;
+    border: thick solid hsl(210,75%,65%);
 }
 
 /*
